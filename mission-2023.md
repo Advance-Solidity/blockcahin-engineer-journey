@@ -8,7 +8,7 @@
 |06|Foundry(fuzz test)|
 |07|ZK-SNARK article|
 |08|Uniswap article|
-|09|ERC-4907|
+|09|[ERC-4907 article](https://blog.devgenius.io/erc-4907-the-nft-rental-standard-edb60fe6527b)|[EIP-4907](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-4907.md)|
 |10||
 |11||
 |12||
