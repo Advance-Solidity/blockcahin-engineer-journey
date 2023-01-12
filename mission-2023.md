@@ -11,7 +11,7 @@
 |09|[ERC-4907 article](https://blog.devgenius.io/erc-4907-the-nft-rental-standard-edb60fe6527b)|[EIP-4907](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-4907.md),[Decentralized Exchanges](https://blog.cryptostars.is/what-are-decentralized-exchanges-how-do-dexs-work-4e54fd477e0e)|
 |10|[Build (DEX) Like Uniswap](https://blog.cryptostars.is/how-to-build-a-decentralized-exchange-dex-like-uniswap-e31bb03062b3)|[solidity bootcamp](https://medium.com/encode-club/announcing-encode-club-q1-2023-bootcamps-apply-now-17cf856e3a6d)|
 |11|[UniswapV2-core](https://github.com/AnandK-2024/v2-core)|[Blockchain developer](https://youtube.com/playlist?list=PL7TVpuddQJV35__DoA5JJLb5FW3u7Qvuw)|
-|12||
+|12|[Exploring the World of Fractional NFT](https://www.youtube.com/watch?v=tz34KP6M6GU&list=PL7TVpuddQJV35__DoA5JJLb5FW3u7Qvuw&index=5)|[Gnosis MultiSig Contract Deep Dive](https://www.youtube.com/watch?v=_2ZJ5HBEfUk&list=PL7TVpuddQJV35__DoA5JJLb5FW3u7Qvuw&index=6)|
 |13||
 |14||
 |15||
