@@ -14,7 +14,7 @@
 |12|[Exploring the World of Fractional NFT](https://www.youtube.com/watch?v=tz34KP6M6GU&list=PL7TVpuddQJV35__DoA5JJLb5FW3u7Qvuw&index=5)|[Gnosis MultiSig Contract Deep Dive](https://www.youtube.com/watch?v=_2ZJ5HBEfUk&list=PL7TVpuddQJV35__DoA5JJLb5FW3u7Qvuw&index=6)|
 |13|[Uniswap v3 Explained](https://mvpworkshop.co/blog/uniswap-v3-explained-all-you-need-to-know/)|[SushiSwap and Vampire Attacks](https://www.gemini.com/cryptopedia/sushiswap-uniswap-vampire-attack)|
 |14|[MetaMask Flask](https://etherworld.co/2022/01/19/metamask-flask-a-wallet-for-web3-developers/)|[ MetaMask Flask Latest Technical Innovations In Web3](https://medium.com/metamask/how-metamask-flask-enables-developers-to-build-the-latest-technical-innovations-in-web3-66bfbb4abcc0)|
-|15|[blackbelt snap real time](https://metamask.io/news/developers/blackbelt-snap-real-time-self-defense-against-scams/)|
+|15|[blackbelt snap real time](https://metamask.io/news/developers/blackbelt-snap-real-time-self-defense-against-scams/)|[Invisible Keys Snap: Multi-cloud private key storage](https://metamask.io/news/developers/invisible-keys-snap-multi-cloud-private-key-storage/)|
 |16||
 |17||
 |18||
