@@ -13,7 +13,7 @@
 |11|[UniswapV2-core](https://github.com/AnandK-2024/v2-core)|[Blockchain developer](https://youtube.com/playlist?list=PL7TVpuddQJV35__DoA5JJLb5FW3u7Qvuw)|
 |12|[Exploring the World of Fractional NFT](https://www.youtube.com/watch?v=tz34KP6M6GU&list=PL7TVpuddQJV35__DoA5JJLb5FW3u7Qvuw&index=5)|[Gnosis MultiSig Contract Deep Dive](https://www.youtube.com/watch?v=_2ZJ5HBEfUk&list=PL7TVpuddQJV35__DoA5JJLb5FW3u7Qvuw&index=6)|
 |13|[Uniswap v3 Explained](https://mvpworkshop.co/blog/uniswap-v3-explained-all-you-need-to-know/)|[SushiSwap and Vampire Attacks](https://www.gemini.com/cryptopedia/sushiswap-uniswap-vampire-attack)|
-|14||
+|14|[MetaMask Flask](https://etherworld.co/2022/01/19/metamask-flask-a-wallet-for-web3-developers/)||
 |15||
 |16||
 |17||
