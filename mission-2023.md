@@ -12,7 +12,7 @@
 |10|[Build (DEX) Like Uniswap](https://blog.cryptostars.is/how-to-build-a-decentralized-exchange-dex-like-uniswap-e31bb03062b3)|[solidity bootcamp](https://medium.com/encode-club/announcing-encode-club-q1-2023-bootcamps-apply-now-17cf856e3a6d)|
 |11|[UniswapV2-core](https://github.com/AnandK-2024/v2-core)|[Blockchain developer](https://youtube.com/playlist?list=PL7TVpuddQJV35__DoA5JJLb5FW3u7Qvuw)|
 |12|[Exploring the World of Fractional NFT](https://www.youtube.com/watch?v=tz34KP6M6GU&list=PL7TVpuddQJV35__DoA5JJLb5FW3u7Qvuw&index=5)|[Gnosis MultiSig Contract Deep Dive](https://www.youtube.com/watch?v=_2ZJ5HBEfUk&list=PL7TVpuddQJV35__DoA5JJLb5FW3u7Qvuw&index=6)|
-|13|[Uniswap v3 Explained](https://mvpworkshop.co/blog/uniswap-v3-explained-all-you-need-to-know/)|[Introducing Uniswap V3](https://uniswap.org/blog/uniswap-v3)|
+|13|[Uniswap v3 Explained](https://mvpworkshop.co/blog/uniswap-v3-explained-all-you-need-to-know/)|[SushiSwap and Vampire Attacks](https://www.gemini.com/cryptopedia/sushiswap-uniswap-vampire-attack)|
 |14||
 |15||
 |16||
