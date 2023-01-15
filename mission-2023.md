@@ -15,7 +15,7 @@
 |13|[Uniswap v3 Explained](https://mvpworkshop.co/blog/uniswap-v3-explained-all-you-need-to-know/)|[SushiSwap and Vampire Attacks](https://www.gemini.com/cryptopedia/sushiswap-uniswap-vampire-attack)|
 |14|[MetaMask Flask](https://etherworld.co/2022/01/19/metamask-flask-a-wallet-for-web3-developers/)|[ MetaMask Flask Latest Technical Innovations In Web3](https://medium.com/metamask/how-metamask-flask-enables-developers-to-build-the-latest-technical-innovations-in-web3-66bfbb4abcc0)|
 |15|[blackbelt snap real time](https://metamask.io/news/developers/blackbelt-snap-real-time-self-defense-against-scams/)|[Invisible Keys Snap: Multi-cloud private key storage](https://metamask.io/news/developers/invisible-keys-snap-multi-cloud-private-key-storage/)|
-|16|[Smart Account Session Snap](https://metamask.io/news/developers/smart-account-session-snap-gaming-dapp-auto-approvals/)|[ssi using metamask snaps](https://medium.com/@blockchainlabum/its-time-to-prove-your-worth-in-dao-ssi-using-metamask-snaps-part-1-3-cfed7c10e6f7)|
+|16|[Smart Account Session Snap](https://metamask.io/news/developers/smart-account-session-snap-gaming-dapp-auto-approvals/)|[ssi using metamask snaps, Part 1/3](https://medium.com/@blockchainlabum/its-time-to-prove-your-worth-in-dao-ssi-using-metamask-snaps-part-1-3-cfed7c10e6f7)|
 |17||
 |18||
 |19||
