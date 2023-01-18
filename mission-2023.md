@@ -17,7 +17,7 @@
 |15|[blackbelt snap real time](https://metamask.io/news/developers/blackbelt-snap-real-time-self-defense-against-scams/)|[Invisible Keys Snap: Multi-cloud private key storage](https://metamask.io/news/developers/invisible-keys-snap-multi-cloud-private-key-storage/)|
 |16|[Smart Account Session Snap](https://metamask.io/news/developers/smart-account-session-snap-gaming-dapp-auto-approvals/)|[ssi using metamask snaps, Part 1/3](https://medium.com/@blockchainlabum/its-time-to-prove-your-worth-in-dao-ssi-using-metamask-snaps-part-1-3-cfed7c10e6f7)|
 |17|[Cheap Contract Deployment Through Clones](https://www.youtube.com/watch?v=3Mw-pMmJ7TA)|
-|18|[EIP 1559 FAQ](https://notes.ethereum.org/@vbuterin/eip-1559-faq#If-the-chain-can-handle-2x-block-size-spikes-doesn%E2%80%99t-that-mean-the-chain-can-handle-just-making-all-blocks-2x-larger)|
+|18|[EIP 1559 FAQ](https://notes.ethereum.org/@vbuterin/eip-1559-faq#If-the-chain-can-handle-2x-block-size-spikes-doesn%E2%80%99t-that-mean-the-chain-can-handle-just-making-all-blocks-2x-larger)|[EIP 2535: Diamond standard explained — Part 1: Why diamonds?](https://medium.com/@ashwin.yar/eip-2535-diamond-standard-explained-part-1-why-diamonds-672497729f79)|
 |19||
 |20||
 |21||
