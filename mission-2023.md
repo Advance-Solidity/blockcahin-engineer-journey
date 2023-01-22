@@ -1,5 +1,5 @@
-|**January**|**topic**||
-|---|----|--|
+|**January**|**topic**|||
+|---|----|--|--|
 |01|WETH|
 |02|WETH|
 |03|Token-Bridge|
@@ -21,7 +21,7 @@
 |19||
 |20|[Aave V1 white paper](https://github.com/aave/aave-protocol/blob/master/docs/Aave_Protocol_Whitepaper_v1_0.pdf)|
 |21|[Zero Knowledge Salon #1](https://www.youtube.com/watch?v=5lyDQ9zFSVc&list=PL3aHC4pFPIsa9ZMErUIw_isyU9PDQszqi&index=1)|
-|22|[Aave v3 contracts with The3D](https://www.youtube.com/watch?v=l5RKksbi8e8&list=PLtQA_IktTCnZcITKc6Bj2Y8jtf33n5ZDk&index=19)|[guide-to-decentralized-finance](https://finematics.com/guide-to-decentralized-finance/)|
+|22|[Aave v3 contracts with The3D](https://www.youtube.com/watch?v=l5RKksbi8e8&list=PLtQA_IktTCnZcITKc6Bj2Y8jtf33n5ZDk&index=19)|[guide-to-decentralized-finance](https://finematics.com/guide-to-decentralized-finance/)|[Aave: Aave Devs 101](https://youtu.be/9k-D57Mi-Qk)|
 |23||
 |24||
 |25||
