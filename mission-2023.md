@@ -21,7 +21,7 @@
 |19||
 |20||
 |21|[Zero Knowledge Salon #1](https://www.youtube.com/watch?v=5lyDQ9zFSVc&list=PL3aHC4pFPIsa9ZMErUIw_isyU9PDQszqi&index=1)|
-|22|[Aave v3 contracts with The3D](https://www.youtube.com/watch?v=l5RKksbi8e8&list=PLtQA_IktTCnZcITKc6Bj2Y8jtf33n5ZDk&index=19)|
+|22|[Aave v3 contracts with The3D](https://www.youtube.com/watch?v=l5RKksbi8e8&list=PLtQA_IktTCnZcITKc6Bj2Y8jtf33n5ZDk&index=19)|[guide-to-decentralized-finance](https://finematics.com/guide-to-decentralized-finance/)|
 |23||
 |24||
 |25||
