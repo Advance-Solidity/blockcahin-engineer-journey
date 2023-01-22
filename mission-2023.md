@@ -19,7 +19,7 @@
 |17|[Cheap Contract Deployment Through Clones](https://www.youtube.com/watch?v=3Mw-pMmJ7TA)|[extremly advance solidity Friday playlist](https://youtube.com/playlist?list=PLtQA_IktTCnZcITKc6Bj2Y8jtf33n5ZDk)|
 |18|[EIP 1559 FAQ](https://notes.ethereum.org/@vbuterin/eip-1559-faq#If-the-chain-can-handle-2x-block-size-spikes-doesn%E2%80%99t-that-mean-the-chain-can-handle-just-making-all-blocks-2x-larger)|[EIP 2535: Diamond standard explained — Part 1: Why diamonds?](https://medium.com/@ashwin.yar/eip-2535-diamond-standard-explained-part-1-why-diamonds-672497729f79)|
 |19||
-|20||
+|20|[Aave V1 white paper](https://github.com/aave/aave-protocol/blob/master/docs/Aave_Protocol_Whitepaper_v1_0.pdf)|
 |21|[Zero Knowledge Salon #1](https://www.youtube.com/watch?v=5lyDQ9zFSVc&list=PL3aHC4pFPIsa9ZMErUIw_isyU9PDQszqi&index=1)|
 |22|[Aave v3 contracts with The3D](https://www.youtube.com/watch?v=l5RKksbi8e8&list=PLtQA_IktTCnZcITKc6Bj2Y8jtf33n5ZDk&index=19)|[guide-to-decentralized-finance](https://finematics.com/guide-to-decentralized-finance/)|
 |23||
@@ -32,6 +32,35 @@
 |30||
 |31||
 |**February**|**Topic**|
+|01||
+|2||
+|3||
+|4||
+|5||
+|6||
+|7||
+|8||
+|09||
+|10||
+|11||
+|12||
+|13||
+|14||
+|15||
+|16||
+|17||
+|18||
+|19||
+|20||
+|21||
+|22||
+|23||
+|24||
+|25||
+|26||
+|27||
+|28||
+|**March**|**March**|
 |01||
 |2||
 |3||
