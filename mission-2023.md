@@ -22,7 +22,7 @@
 |20|[Aave V1 white paper](https://github.com/aave/aave-protocol/blob/master/docs/Aave_Protocol_Whitepaper_v1_0.pdf)|
 |21|[Zero Knowledge Salon #1](https://www.youtube.com/watch?v=5lyDQ9zFSVc&list=PL3aHC4pFPIsa9ZMErUIw_isyU9PDQszqi&index=1)|
 |22|[Aave v3 contracts with The3D](https://www.youtube.com/watch?v=l5RKksbi8e8&list=PLtQA_IktTCnZcITKc6Bj2Y8jtf33n5ZDk&index=19)|[guide-to-decentralized-finance](https://finematics.com/guide-to-decentralized-finance/)|[Aave: Aave Devs 101](https://youtu.be/9k-D57Mi-Qk)|
-|23|[Aave Developers Guide to the Aave Protocol](https://www.youtube.com/watch?v=LzaS8IiqnPY&t=188s)|[Vulnerable Spots of Lending Protocols](https://mixbytes.io/blog/vulnerable-spots-of-lending-protocols?utm_source=substack&utm_medium=email)|
+|23|[Aave Developers Guide to the Aave Protocol](https://www.youtube.com/watch?v=LzaS8IiqnPY&t=188s)|[Vulnerable Spots of Lending Protocols](https://mixbytes.io/blog/vulnerable-spots-of-lending-protocols?utm_source=substack&utm_medium=email)|[Formal Verification of a Token Contract](https://whileydave.com/2022/09/15/formal-verification-of-a-token-contract/)|
 |24||
 |25||
 |26||
