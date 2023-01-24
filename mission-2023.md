@@ -24,7 +24,7 @@
 |22|[Aave v3 contracts with The3D](https://www.youtube.com/watch?v=l5RKksbi8e8&list=PLtQA_IktTCnZcITKc6Bj2Y8jtf33n5ZDk&index=19)|[guide-to-decentralized-finance](https://finematics.com/guide-to-decentralized-finance/)|[Aave: Aave Devs 101](https://youtu.be/9k-D57Mi-Qk)|
 |23|[Aave Developers Guide to the Aave Protocol](https://www.youtube.com/watch?v=LzaS8IiqnPY&t=188s)|[Vulnerable Spots of Lending Protocols](https://mixbytes.io/blog/vulnerable-spots-of-lending-protocols?utm_source=substack&utm_medium=email)|[Formal Verification of a Token Contract](https://whileydave.com/2022/09/15/formal-verification-of-a-token-contract/)|
 |24||
-|25||
+|25|[Breaking Aave Upgradeability](https://blog.trailofbits.com/2020/12/16/breaking-aave-upgradeability/)|
 |26||
 |27||
 |28||
