@@ -23,7 +23,7 @@
 |21|[Zero Knowledge Salon #1](https://www.youtube.com/watch?v=5lyDQ9zFSVc&list=PL3aHC4pFPIsa9ZMErUIw_isyU9PDQszqi&index=1)|
 |22|[Aave v3 contracts with The3D](https://www.youtube.com/watch?v=l5RKksbi8e8&list=PLtQA_IktTCnZcITKc6Bj2Y8jtf33n5ZDk&index=19)|[guide-to-decentralized-finance](https://finematics.com/guide-to-decentralized-finance/)|[Aave: Aave Devs 101](https://youtu.be/9k-D57Mi-Qk)|
 |23|[Aave Developers Guide to the Aave Protocol](https://www.youtube.com/watch?v=LzaS8IiqnPY&t=188s)|[Vulnerable Spots of Lending Protocols](https://mixbytes.io/blog/vulnerable-spots-of-lending-protocols?utm_source=substack&utm_medium=email)|[Formal Verification of a Token Contract](https://whileydave.com/2022/09/15/formal-verification-of-a-token-contract/)|
-|24||
+|24|[Ethereum is a Dark Forest](https://www.paradigm.xyz/2020/08/ethereum-is-a-dark-forest)|
 |25|[Breaking Aave Upgradeability](https://blog.trailofbits.com/2020/12/16/breaking-aave-upgradeability/)|[Aragon's Blog](https://blog.aragon.org/)|
 |26|[What is MEV?](https://www.blocknative.com/blog/what-is-mev)|[0xbaDc0dE MEV Bot Hack Analysis](https://medium.com/immunefi/0xbadc0de-mev-bot-hack-analysis-30b9031ff0ba)|[The Ethereum Merge: What It Means for the Network](https://www.blocknative.com/blog/ethereum-merge-proof-of-stake#5)|
 |27||
