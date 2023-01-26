@@ -26,7 +26,7 @@
 |24|[Ethereum is a Dark Forest](https://www.paradigm.xyz/2020/08/ethereum-is-a-dark-forest)|
 |25|[Breaking Aave Upgradeability](https://blog.trailofbits.com/2020/12/16/breaking-aave-upgradeability/)|[Aragon's Blog](https://blog.aragon.org/)|
 |26|[What is MEV?](https://www.blocknative.com/blog/what-is-mev)|[0xbaDc0dE MEV Bot Hack Analysis](https://medium.com/immunefi/0xbadc0de-mev-bot-hack-analysis-30b9031ff0ba)|[The Ethereum Merge: What It Means for the Network](https://www.blocknative.com/blog/ethereum-merge-proof-of-stake#5)|
-|27|[Vanity Addresses](https://0xfoobar.substack.com/p/vanity-addresses?utm_source=substack&utm_medium=email)|
+|27|[**Vanity Addresses** 😈](https://0xfoobar.substack.com/p/vanity-addresses?utm_source=substack&utm_medium=email)|
 |28||
 |29||
 |30||
