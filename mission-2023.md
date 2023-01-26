@@ -25,7 +25,7 @@
 |23|[Aave Developers Guide to the Aave Protocol](https://www.youtube.com/watch?v=LzaS8IiqnPY&t=188s)|[Vulnerable Spots of Lending Protocols](https://mixbytes.io/blog/vulnerable-spots-of-lending-protocols?utm_source=substack&utm_medium=email)|[Formal Verification of a Token Contract](https://whileydave.com/2022/09/15/formal-verification-of-a-token-contract/)|
 |24||
 |25|[Breaking Aave Upgradeability](https://blog.trailofbits.com/2020/12/16/breaking-aave-upgradeability/)|[Aragon's Blog](https://blog.aragon.org/)|
-|26|[What is MEV?](https://www.blocknative.com/blog/what-is-mev)|
+|26|[What is MEV?](https://www.blocknative.com/blog/what-is-mev)|[0xbaDc0dE MEV Bot Hack Analysis](https://medium.com/immunefi/0xbadc0de-mev-bot-hack-analysis-30b9031ff0ba)|
 |27||
 |28||
 |29||
