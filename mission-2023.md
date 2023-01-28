@@ -27,7 +27,7 @@
 |25|[Breaking Aave Upgradeability](https://blog.trailofbits.com/2020/12/16/breaking-aave-upgradeability/)|[Aragon's Blog](https://blog.aragon.org/)|
 |26|[What is MEV?](https://www.blocknative.com/blog/what-is-mev)|[0xbaDc0dE MEV Bot Hack Analysis](https://medium.com/immunefi/0xbadc0de-mev-bot-hack-analysis-30b9031ff0ba)|[The Ethereum Merge: What It Means for the Network](https://www.blocknative.com/blog/ethereum-merge-proof-of-stake#5)|
 |27|[**Vanity Addresses** 😈](https://0xfoobar.substack.com/p/vanity-addresses?utm_source=substack&utm_medium=email)|[A Low-Level Guide To Solidity's Storage Management](https://degatchi.com/articles/low_level_guide_to_soliditys_storage_management/?utm_source=substack&utm_medium=email)|
-|28|[**ERC-4527: QR Code transmission protocol for wallets** ✈️](https://eips.ethereum.org/EIPS/eip-4527#abstract)|[]()|
+|28|[**ERC-4527: QR Code transmission protocol for wallets** ✈️](https://eips.ethereum.org/EIPS/eip-4527#abstract)|[Why smart contract wallets are the future with EIP-4337 and Account Abstraction 👽](https://youtu.be/LdaoBzwHFkU)|
 |29||
 |30||
 |31||
