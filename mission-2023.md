@@ -30,7 +30,7 @@
 |28|[**ERC-4527: QR Code transmission protocol for wallets** ✈️](https://eips.ethereum.org/EIPS/eip-4527#abstract)|[Why smart contract wallets are the future with EIP-4337 and Account Abstraction 👽](https://youtu.be/LdaoBzwHFkU)|
 |29||
 |30||
-|31||
+|31|[The Ethereum 2.0 Beacon Chain is here](https://consensys.net/blog/blockchain-explained/the-ethereum-2-0-beacon-chain-is-here-now-what/)|
 |**February**|**Topic**|
 |01||
 |2||
