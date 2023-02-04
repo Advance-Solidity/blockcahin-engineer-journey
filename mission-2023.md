@@ -36,7 +36,7 @@
 |2||
 |3|[Securing ERC4626 Implementations - Peteris Erins](https://www.youtube.com/watch?v=5KVD7EX6HWQ)|
 |4|[What is the ERC-4626 token standard?](https://www.alchemy.com/overviews/erc-4626)|[ERC-4626: Tokenized Vaults](https://eips.ethereum.org/EIPS/eip-4626)|
-|5||
+|5|[ERC-4626: Bridging DeFi Today to DeFi Tomorrow](https://medium.com/aleph-universe/erc-4626-bridging-defi-today-to-defi-tomorrow-f62176c3b254)|
 |6||
 |7||
 |8||
