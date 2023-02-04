@@ -34,8 +34,8 @@
 |**February**|**Topic**|
 |01||
 |2||
-|3||
-|4||
+|3|[Securing ERC4626 Implementations - Peteris Erins](https://www.youtube.com/watch?v=5KVD7EX6HWQ)|
+|4|[What is the ERC-4626 token standard?](https://www.alchemy.com/overviews/erc-4626)|[ERC-4626: Tokenized Vaults](https://eips.ethereum.org/EIPS/eip-4626)|
 |5||
 |6||
 |7||
