@@ -50,7 +50,7 @@
 |16|[PoolTogether contest Findings & Analysis Report](https://code4rena.com/reports/2022-12-pooltogether)|[Foundation Exhibition, Scheduling & Early Access Audit by Lambda Findings & Analysis Report](https://code4rena.com/reports/2022-11-foundation)|
 |17||
 |18|[Address poisoning scams](https://metamask.zendesk.com/hc/en-us/articles/11967455819035-Address-poisoning-scams)|
-|19||
+|19|[Why web3 developers should implement smart contract wallets](https://medium.com/0xsequence/why-web3-developers-should-implement-smart-contract-wallets-786fa2a2033b)|
 |20||
 |21||
 |22||
