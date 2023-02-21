@@ -51,7 +51,7 @@
 |17|[ERC4626](https://www.rareskills.io/post/erc4626)|
 |18|[Address poisoning scams](https://metamask.zendesk.com/hc/en-us/articles/11967455819035-Address-poisoning-scams)|
 |19|[Why web3 developers should implement smart contract wallets](https://medium.com/0xsequence/why-web3-developers-should-implement-smart-contract-wallets-786fa2a2033b)|[my blog-The Impact of Leading Zeros in Ethereum Addresses on Transaction Costs](https://blockwithanand.hashnode.dev/the-impact-of-leading-zeros-in-ethereum-addresses-on-transaction-costs)|[Vault-MAth](https://youtu.be/k7WNibJOBXE)|
-|20|[RAI - Non-pegged Decentralized Stablecoin | DeFi](https://youtu.be/5gGqSLpzdAU)|
+|20|[RAI - Non-pegged Decentralized Stablecoin DeFi](https://youtu.be/5gGqSLpzdAU)|
 |21||
 |22||
 |23||
