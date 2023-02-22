@@ -52,7 +52,7 @@
 |18|[Address poisoning scams](https://metamask.zendesk.com/hc/en-us/articles/11967455819035-Address-poisoning-scams)|
 |19|[Why web3 developers should implement smart contract wallets](https://medium.com/0xsequence/why-web3-developers-should-implement-smart-contract-wallets-786fa2a2033b)|[my blog-The Impact of Leading Zeros in Ethereum Addresses on Transaction Costs](https://blockwithanand.hashnode.dev/the-impact-of-leading-zeros-in-ethereum-addresses-on-transaction-costs)|[Vault-MAth](https://youtu.be/k7WNibJOBXE)|
 |20|[RAI - Non-pegged Decentralized Stablecoin DeFi](https://youtu.be/5gGqSLpzdAU)|[Curve - Math DeFi](https://youtu.be/GuD3jkPgPgU)|[curve AMM](https://alvarofeito.com/articles/curve/#Zero-Slippage-AMM?)|
-|21||
+|21|[math and uniswap](https://youtube.com/playlist?list=PLL_Ys_tx2RBfSAFHfLfzeQICqCY_Gjp3_)|
 |22||
 |23||
 |24||
