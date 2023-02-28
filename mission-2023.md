@@ -59,11 +59,11 @@
 |25||
 |26||
 |27|-------------Uniswap ----------|------------protocol----------|------week----------|
-|28|[uniswap docs](https://docs.uniswap.org/concepts/protocol/oracle)|[Uniswap V3 - Tick and SqrtPriceX96 -DeFi](https://youtu.be/p7LIEr8hVCA)|
+|28|[uniswap docs](https://docs.uniswap.org/concepts/protocol/oracle)|[Uniswap V3 - Tick and SqrtPriceX96 -DeFi](https://youtu.be/p7LIEr8hVCA)|[Uniswap V3 TWAP and Geometric Mean](https://youtu.be/XwPkXAeIppk)|
 |**March**|**March**|
-|01||
-|2||
-|3||
+|01|[The Replicating Portfolio of a Constant Product Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3550601)|[Liquidity Provider Returns in Geometric Mean Markets](https://arxiv.org/abs/2006.08806)||
+|2|[Uniswap: A Good Deal for Liquidity Providers?](https://pintail.medium.com/uniswap-a-good-deal-for-liquidity-providers-104c0b6816f2)||[Understanding Uniswap Returns](https://pintail.medium.com/understanding-uniswap-returns-cc593f3499ef)|
+|3|[Improved Price Oracles: Constant Function Market Makers](https://arxiv.org/abs/2003.10001)|[An analysis of Uniswap markets](https://arxiv.org/abs/1911.03380)|[Uniswap's Financial Alchemy](https://research.paradigm.xyz/uniswaps-alchemy)|
 |4||
 |5||
 |6||
