@@ -59,7 +59,7 @@
 |25||
 |26||
 |27|-------------Uniswap ----------|------------protocol----------|------week----------|
-|28|[uniswap docs](https://docs.uniswap.org/concepts/protocol/oracle)|
+|28|[uniswap docs](https://docs.uniswap.org/concepts/protocol/oracle)|[Uniswap V3 - Tick and SqrtPriceX96 -DeFi](https://youtu.be/p7LIEr8hVCA)|
 |**March**|**March**|
 |01||
 |2||
