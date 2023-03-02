@@ -64,7 +64,7 @@
 |01|[The Replicating Portfolio of a Constant Product Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3550601)|[Liquidity Provider Returns in Geometric Mean Markets](https://arxiv.org/abs/2006.08806)||
 |2|[Uniswap: A Good Deal for Liquidity Providers?](https://pintail.medium.com/uniswap-a-good-deal-for-liquidity-providers-104c0b6816f2)||[Understanding Uniswap Returns](https://pintail.medium.com/understanding-uniswap-returns-cc593f3499ef)|
 |3|[Improved Price Oracles: Constant Function Market Makers](https://arxiv.org/abs/2003.10001)|[An analysis of Uniswap markets](https://arxiv.org/abs/1911.03380)|[Uniswap's Financial Alchemy](https://research.paradigm.xyz/uniswaps-alchemy)|
-|4|[The Uniswap V3 SDK](https://docs.uniswap.org/sdk/v3/overview)|
+|4|[The Uniswap V3 SDK](https://docs.uniswap.org/sdk/v3/overview)|[Deep Dive Into Uniswap V2 Contracts](https://youtu.be/I6PuwIz-pqY)|
 |5||
 |6||
 |7||
