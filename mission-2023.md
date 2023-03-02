@@ -66,7 +66,7 @@
 |3|[Improved Price Oracles: Constant Function Market Makers](https://arxiv.org/abs/2003.10001)|[An analysis of Uniswap markets](https://arxiv.org/abs/1911.03380)|[Uniswap's Financial Alchemy](https://research.paradigm.xyz/uniswaps-alchemy)|
 |4|[The Uniswap V3 SDK](https://docs.uniswap.org/sdk/v3/overview)|[Deep Dive Into Uniswap V2 Contracts](https://youtu.be/I6PuwIz-pqY)|
 |5|[ERC-4337: Account Abstraction Using Alt Mempool](https://eips.ethereum.org/EIPS/eip-4337)|[ERC 4337: account abstraction without Ethereum protocol changes](https://medium.com/infinitism/erc-4337-account-abstraction-without-ethereum-protocol-changes-d75c9d94dc4a)|
-|6||
+|6|[EIP-3074: AUTH and AUTHCALL opcodes ](https://eips.ethereum.org/EIPS/eip-3074)|
 |7||
 |8||
 |09||
