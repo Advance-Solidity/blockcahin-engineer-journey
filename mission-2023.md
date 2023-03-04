@@ -67,7 +67,7 @@
 |4|[The Uniswap V3 SDK](https://docs.uniswap.org/sdk/v3/overview)|[Deep Dive Into Uniswap V2 Contracts](https://youtu.be/I6PuwIz-pqY)|
 |5|[ERC-4337: Account Abstraction Using Alt Mempool](https://eips.ethereum.org/EIPS/eip-4337)|[ERC 4337: account abstraction without Ethereum protocol changes](https://medium.com/infinitism/erc-4337-account-abstraction-without-ethereum-protocol-changes-d75c9d94dc4a)|
 |6|[EIP-3074: AUTH and AUTHCALL opcodes ](https://eips.ethereum.org/EIPS/eip-3074)|[EIP-1559: Fee market change for ETH 1.0 chain](https://eips.ethereum.org/EIPS/eip-1559)|
-|7||
+|7|[EIP-4337 Account abstraction guide](https://docs.stackup.sh/docs/introduction/account-abstraction)|
 |8||
 |09||
 |10||
