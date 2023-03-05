@@ -70,7 +70,7 @@
 |6|[EIP-3074: AUTH and AUTHCALL opcodes ](https://eips.ethereum.org/EIPS/eip-3074)|[EIP-1559: Fee market change for ETH 1.0 chain](https://eips.ethereum.org/EIPS/eip-1559)|
 |7|[EIP-4337 Account abstraction guide](https://docs.stackup.sh/docs/introduction/account-abstraction)|[EIP-4337 – Ethereum Account Abstraction Incremental Audit](https://blog.openzeppelin.com/eip-4337-ethereum-account-abstraction-incremental-audit/)|
 |8|[ERC-2470: Singleton Factory  ](https://eips.ethereum.org/EIPS/eip-2470)|[How to send Ether to 11,440 people](https://weka.medium.com/how-to-send-ether-to-11-440-people-187e332566b7)|
-|09||
+|09|[Unified ERC-4337 mempool](https://notes.ethereum.org/@yoav/unified-erc-4337-mempool)|[Why smart contract wallets are the future with EIP-4337 and Account Abstraction](https://youtu.be/LdaoBzwHFkU)|
 |10||
 |11||
 |12||
