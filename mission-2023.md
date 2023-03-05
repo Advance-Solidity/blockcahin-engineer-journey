@@ -65,11 +65,11 @@
 |2|[Uniswap: A Good Deal for Liquidity Providers?](https://pintail.medium.com/uniswap-a-good-deal-for-liquidity-providers-104c0b6816f2)||[Understanding Uniswap Returns](https://pintail.medium.com/understanding-uniswap-returns-cc593f3499ef)|
 |3|[Improved Price Oracles: Constant Function Market Makers](https://arxiv.org/abs/2003.10001)|[An analysis of Uniswap markets](https://arxiv.org/abs/1911.03380)|[Uniswap's Financial Alchemy](https://research.paradigm.xyz/uniswaps-alchemy)|
 |4|[The Uniswap V3 SDK](https://docs.uniswap.org/sdk/v3/overview)|[Deep Dive Into Uniswap V2 Contracts](https://youtu.be/I6PuwIz-pqY)|
+||------ERC4337----------|----------ACCOUNT-------|---------ABSTRACTION-----------|
 |5|[ERC-4337: Account Abstraction Using Alt Mempool](https://eips.ethereum.org/EIPS/eip-4337)|[ERC 4337: account abstraction without Ethereum protocol changes](https://medium.com/infinitism/erc-4337-account-abstraction-without-ethereum-protocol-changes-d75c9d94dc4a)|
 |6|[EIP-3074: AUTH and AUTHCALL opcodes ](https://eips.ethereum.org/EIPS/eip-3074)|[EIP-1559: Fee market change for ETH 1.0 chain](https://eips.ethereum.org/EIPS/eip-1559)|
 |7|[EIP-4337 Account abstraction guide](https://docs.stackup.sh/docs/introduction/account-abstraction)|[EIP-4337 – Ethereum Account Abstraction Incremental Audit](https://blog.openzeppelin.com/eip-4337-ethereum-account-abstraction-incremental-audit/)|
-|8|[ERC-2470: Singleton Factory  ](https://eips.ethereum.org/EIPS/eip-2470)|[How to send Ether to 11,440 people
-](https://weka.medium.com/how-to-send-ether-to-11-440-people-187e332566b7)|
+|8|[ERC-2470: Singleton Factory  ](https://eips.ethereum.org/EIPS/eip-2470)|[How to send Ether to 11,440 people](https://weka.medium.com/how-to-send-ether-to-11-440-people-187e332566b7)|
 |09||
 |10||
 |11||
