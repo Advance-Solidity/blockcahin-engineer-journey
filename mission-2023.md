@@ -75,6 +75,7 @@
 |11|[The History and Future of Account Abstraction](https://medium.com/nethermind-eth/the-history-and-future-of-account-abstraction-10cb097ebdc8)|[Seedless Self-Custody: On MPC and Smart Contract Wallets](https://medium.com/1kxnetwork/wallets-91c7c3457578)|[EIP-4337 – Ethereum Account Abstraction Audit](https://blog.openzeppelin.com/eth-foundation-account-abstraction-audit/)|
 |12|[The road to account abstraction](https://notes.ethereum.org/@vbuterin/account_abstraction_roadmap#)|[Account Abstraction: Part 1](https://www.alchemy.com/blog/account-abstraction?)|[Account Abstraction Part 2: Sponsoring Transactions Using Paymasters](https://www.alchemy.com/blog/account-abstraction-paymasters)|
 |13|[Account Abstraction Part 3: Wallet Creation](https://www.alchemy.com/blog/account-abstraction-wallet-creation)|[Account Abstraction Part 4: Aggregate Signatures](https://www.alchemy.com/blog/account-abstraction-aggregate-signatures)|
+||--------Blockchain-------|-------------------bridge-----------------|----------Web3------------------|
 |14|[Cross-chain vs. Multichain - Which is better?](https://www.alchemy.com/overviews/cross-chain-vs-multichain)|[What are Cross-Chain Bridges?](https://www.alchemy.com/overviews/cross-chain-bridges)|
 |15||
 |16||
