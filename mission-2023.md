@@ -78,8 +78,8 @@
 ||--------Blockchain-------|-------------------bridge-----------------|----------Web3------------------|
 |14|[Cross-chain vs. Multichain - Which is better?](https://www.alchemy.com/overviews/cross-chain-vs-multichain)|[What are Cross-Chain Bridges?](https://www.alchemy.com/overviews/cross-chain-bridges)|
 |15||
-|16||
-|17||
+|16|[ERC-4337 — Misconceptions and Valid Concerns](https://docs.zerodev.app/blog/erc-4337-misconceptions-and-valid-concerns)|[What Can You Do with Account Abstraction?](https://docs.zerodev.app/blog/what-can-you-do-with-account-abstraction)||
+|17|[ZeroDev Overview docs ](https://docs.zerodev.app/)|
 |18||
 |19||
 |20||
