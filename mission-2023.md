@@ -79,7 +79,7 @@
 |14|[Cross-chain vs. Multichain - Which is better?](https://www.alchemy.com/overviews/cross-chain-vs-multichain)|[What are Cross-Chain Bridges?](https://www.alchemy.com/overviews/cross-chain-bridges)|
 |15||
 |16|[ERC-4337 — Misconceptions and Valid Concerns](https://docs.zerodev.app/blog/erc-4337-misconceptions-and-valid-concerns)|[What Can You Do with Account Abstraction?](https://docs.zerodev.app/blog/what-can-you-do-with-account-abstraction)||
-|17|[ZeroDev Overview docs ](https://docs.zerodev.app/)|
+|17|[ZeroDev Overview docs ](https://docs.zerodev.app/)|[Introduction to EIP-2535 Diamonds](https://eip2535diamonds.substack.com/p/introduction-to-the-diamond-standard?s=08)|
 |18||
 |19||
 |20||
