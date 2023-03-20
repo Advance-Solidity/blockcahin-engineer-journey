@@ -79,7 +79,7 @@
 |15||
 |16|[ERC-4337 — Misconceptions and Valid Concerns](https://docs.zerodev.app/blog/erc-4337-misconceptions-and-valid-concerns)|[What Can You Do with Account Abstraction?](https://docs.zerodev.app/blog/what-can-you-do-with-account-abstraction)||
 |17|[ZeroDev Overview docs ](https://docs.zerodev.app/)|[Introduction to EIP-2535 Diamonds](https://eip2535diamonds.substack.com/p/introduction-to-the-diamond-standard?s=08)|[RaisePay wallet social recovery: Friends to the rescue!](https://raisefinance.medium.com/raisepay-wallet-social-recovery-friends-to-the-rescue-86120948dabe)|
-|18||
+|18|[StarkNet Account Abstraction Model - Part 1](https://community.starknet.io/t/starknet-account-abstraction-model-part-1/781)|
 |19||
 |20||
 |21||
