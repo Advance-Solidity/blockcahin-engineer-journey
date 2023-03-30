@@ -88,7 +88,7 @@
 |24||
 |25||
 |26|[Is Account Abstraction the Future for Digital Assets?](https://www.qredo.com/blog/is-account-abstraction-the-future-for-digital-assets?utm_source=twitter&utm_medium=organic&utm_campaign_type=brand&utm_campaign=230323_is_account_abstraction_the_future_of_digital_assets&utm_content=230323_is_account_abstraction_the_future_of_digital_assets&utm_content_type=text&s=08)|
-|27||
+|27|[Why we need wide adoption of social recovery wallets](https://vitalik.ca/general/2021/01/11/recovery.html)|
 |28||
 ||------------UPGRADABLE-----------|----------------SMART---------------|--------------CONTRACT-----------------|
 |April|||
