@@ -90,11 +90,10 @@
 |26|[Is Account Abstraction the Future for Digital Assets?](https://www.qredo.com/blog/is-account-abstraction-the-future-for-digital-assets?utm_source=twitter&utm_medium=organic&utm_campaign_type=brand&utm_campaign=230323_is_account_abstraction_the_future_of_digital_assets&utm_content=230323_is_account_abstraction_the_future_of_digital_assets&utm_content_type=text&s=08)|
 |27|[**Why we need wide adoption of social recovery wallets** 👿👿👿👿👿👿👿👿](https://vitalik.ca/general/2021/01/11/recovery.html)|[**ERC-4337: A Complete Guide To Account Abstraction**👿👿👿👿👿👿👿👿](https://beincrypto.com/learn/erc-4337/)|[Bickonomy SDK-Overview 🕵️](https://biconomy.gitbook.io/sdk/introduction/overview)|
 |28||
-||------------UPGRADABLE-----------|----------------SMART---------------|--------------CONTRACT-----------------|
-|April|||
-|01||
-|2||
-|3||
+|April|[ERC-4337 How to make a smart contract account and send your first userOperations](https://youtu.be/MHZ0LwpKcpI)||
+|01|[ERC-4337 blocknative docs](https://docs.blocknative.com/4337-tools/blocknative-bundler)|
+|2|[Everything About AA: zkSync’s AA dominates EIP-4337, Optimism wallet, Chainlink Hackathon, Ethereum perspectives and Cardano’s AA](https://medium.com/etherspot/everything-about-aa-zksyncs-aa-dominates-eip-4337-optimism-wallet-chainlink-hackathon-ethereum-d2e7bde50eee)|
+|3|[What is a Smart Contract Wallet? And 'Smart Accounts' (ERC-4337) Explained](https://blog.thirdweb.com/smart-contract-wallet-erc4337/?s=08)|
 |4||
 |5||
 |6||
