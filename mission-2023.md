@@ -106,7 +106,7 @@
 |13||
 |14||
 |15|---------Diamond--------------|-------------proxy-------|---------contract----------|
-|16||
+|16|[Diamond Standard with Nick Mudge](https://youtu.be/9-MYz75FA8o)|[The Diamond Proxy Pattern Explained: What You Need To Know (Advanced Proxy Pattern)](https://youtu.be/IoWe6VIctJQ)|
 |17||
 |18||
 |19||
