@@ -95,7 +95,7 @@
 |2|[Everything About AA: zkSync’s AA dominates EIP-4337, Optimism wallet, Chainlink Hackathon, Ethereum perspectives and Cardano’s AA](https://medium.com/etherspot/everything-about-aa-zksyncs-aa-dominates-eip-4337-optimism-wallet-chainlink-hackathon-ethereum-d2e7bde50eee)|
 |3|[What is a Smart Contract Wallet? And 'Smart Accounts' (ERC-4337) Explained](https://blog.thirdweb.com/smart-contract-wallet-erc4337/?s=08)|
 |4|[Solidity Gasleft](https://www.rareskills.io/post/solidity-gasleft)|
-|5|[How Expensive Are ERC-4337 Gas Fees? 🥇🥇🥇🥇🥇🥇](https://www.stackup.sh/blog/how-much-more-expensive-is-erc-4337)|[]()|
+|5|[How Expensive Are ERC-4337 Gas Fees? 🥇🥇🥇🥇🥇🥇](https://www.stackup.sh/blog/how-much-more-expensive-is-erc-4337)||
 |6||
 |7||
 |8||
