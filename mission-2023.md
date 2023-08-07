@@ -119,6 +119,8 @@
 |26||
 |27||
 |28||
+|August||
+|7|[EIP-150 and the 63/64 Rule for Gas](https://www.rareskills.io/post/eip-150-and-the-63-64-rule-for-gas)||
 
 
 
